@@ -1,4 +1,4 @@
-# Análisis Exploratorio de Datos EDA del dataset Palmer penguins
+# Análisis Exploratorio de Datos de los pingüinos del archipielago Palmer
 <img src="https://raw.githubusercontent.com/JoePortilla/PalmerPenguins-EDA/main/img/penguins_eda_cover.webp" width="800" alt="logo" style="display:block;margin:auto;">
 
 <img src="https://raw.githubusercontent.com/allisonhorst/palmerpenguins/main/man/figures/logo.png" width="150" alt="logo" style="display:block;margin:auto;">
